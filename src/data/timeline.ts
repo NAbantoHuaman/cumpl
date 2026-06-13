@@ -9,50 +9,42 @@ export interface TimelineEvent {
 export const timelineEvents: TimelineEvent[] = [
   {
     id: 1,
-    year: "Capítulo 1",
-    title: "El Destino Nos Unió",
+    year: "12 de Septiembre",
+    title: "El Inicio de Todo",
     description:
-      "Dicen que las casualidades no existen. El día que nuestras miradas se cruzaron, el universo entero suspiró. Fue el comienzo de la historia más bonita jamás contada.",
+      "Aquel día nuestras vidas se cruzaron por primera vez. Tú desde Trujillo y yo desde Cajamarca. A pesar de la distancia, desde el inicio supe que había encontrado a alguien muy especial.",
     icon: "✨",
   },
   {
     id: 2,
-    year: "Capítulo 2",
-    title: "Los Primeros Latidos",
+    year: "5 de Octubre",
+    title: "El Mejor Sí",
     description:
-      "Cada mensaje, cada llamada, cada momento compartido fue tejiendo un vínculo invisible pero inquebrantable. El corazón ya sabía lo que la mente aún no entendía.",
+      "Apenas un par de semanas después, decidí ir a verte. Ese 5 de octubre me declaré, te pedí que fueras mi novia, y cuando respondiste que sí, te convertiste en la dueña de mi corazón.",
     icon: "💫",
   },
   {
     id: 3,
-    year: "Capítulo 3",
-    title: "Construyendo Nuestro Mundo",
+    year: "Cada Día",
+    title: "Enamorado de Ti",
     description:
-      "Juntos comenzamos a construir un universo propio. Con risas como cimientos, sueños como paredes y amor como techo. Un refugio perfecto.",
-    icon: "🌙",
+      "Me encanta todo de ti: tus ojos preciosos, tus labios, tu cuerpo, tu forma de hablar y caminar. Tienes un alma tan tierna, como una niña, que sabe tratarme con muchísimo cariño y romanticismo.",
+    icon: "🌸",
   },
   {
     id: 4,
-    year: "Capítulo 4",
-    title: "Aventuras Sin Fin",
+    year: "Nuestro Camino",
+    title: "Superando la Distancia",
     description:
-      "Cada día a tu lado es una nueva aventura. Desde los viajes más emocionantes hasta las tardes más tranquilas, todo se convierte en extraordinario contigo.",
-    icon: "🦋",
+      "No ha sido fácil; hemos tenido diferencias y separaciones, y sé que he cometido errores. Pero a pesar de la distancia, siempre he vuelto a ti para arreglar las cosas, porque mi amor por ti es inmenso y verdadero.",
+    icon: "🛤️",
   },
   {
     id: 5,
-    year: "Capítulo 5",
-    title: "Superando Tormentas",
-    description:
-      "No todo han sido días soleados, pero cada tormenta que hemos enfrentado juntos nos ha hecho más fuertes. Nuestro amor es a prueba de todo.",
-    icon: "⭐",
-  },
-  {
-    id: 6,
     year: "Hoy",
-    title: "Celebrando 20 Años de Ti",
+    title: "Felices 20 Años, Melanie",
     description:
-      "Y aquí estamos, celebrando la existencia de la persona más maravillosa del universo. 20 años de pura magia. Feliz cumpleaños, mi amor eterno.",
+      "Melanie Abanto Campos, me llena de júbilo estar a tu lado celebrando tus 20 años, sabiendo que eres mía. Estaré siempre contigo, en las buenas y en las malas. Te amo, y no quiero que seas de nadie más.",
     icon: "🎂",
   },
 ];
