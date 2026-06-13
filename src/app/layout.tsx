@@ -5,7 +5,6 @@ import SmoothScroll from "@/components/effects/SmoothScroll";
 import CustomCursor from "@/components/effects/CustomCursor";
 import StarfieldCanvas from "@/components/effects/StarfieldCanvas";
 import FloatingHearts from "@/components/effects/FloatingHearts";
-import MusicPlayer from "@/components/effects/MusicPlayer";
 import LoadingScreen from "@/components/effects/LoadingScreen";
 
 const inter = Inter({
